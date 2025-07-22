@@ -313,6 +313,12 @@ html {
     -webkit-text-size-adjust : 100%;
 }
 
+.about-info__pic {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px; 
+}
+
 body {
     margin : 0;
 }
